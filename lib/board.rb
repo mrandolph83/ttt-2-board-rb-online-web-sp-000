@@ -1,1 +1,16 @@
-# Define the variable board below.
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+
+row_t = [" ", " "," "]
+row_t[0] = "1"
+row_t[1] = "2"
+row_t[2] = "3"
+
+row_m = [" ", " "," "]
+row_m[0] = "4"
+row_m[1] = "5"
+row_m[2] = "6"
+
+row_b = [" ", " "," "]
+row_b[0] = "7"
+row_b[1] = "8"
+row_b[2] = "9"
